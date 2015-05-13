@@ -1,0 +1,14 @@
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Main.resources
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ShowInformation.resources
+E:\Work Batch 04\Shibl\Practice Day 8\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Search.resources
+D:\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
